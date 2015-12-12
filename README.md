@@ -18,4 +18,7 @@
 
 5. Now go to main window and select the category, a new window will pop up will all the fields you added under selected category.
 
+6. You can also minimize the main window, and it will be added in your taskbar.
+
+
 Enjoy...
