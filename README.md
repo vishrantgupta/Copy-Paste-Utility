@@ -1,6 +1,14 @@
 # Copy-Utility-Tool
 
   This is called as Copy Utility. We usually keep our day to day task in some text files or in sticky notes. If required we have to search for these files or sticky which becomes clumsy some times if number of notes increases and this is time consuming. This utility will minimise these day to day tasks and will keep all your notes under some categories which you can access with a simple click. “Also you don’t have to memorize anything, not even a password.”
+  
+  Below is the main window of the applicaiton which can be minimised to taskbar
+
+![main window](https://github.com/vishrantgupta/Copy-Utility-Tool/blob/master/main_window.png)
+
+  After selecting the created category it will look as below, these are floating windows which will be avaiable always on the top.
+
+![floating window](https://github.com/vishrantgupta/Copy-Utility-Tool/blob/master/floating_window.png)
 
 #### Requirement
 
